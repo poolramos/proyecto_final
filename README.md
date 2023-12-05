@@ -13,8 +13,6 @@ Sistema de bitacoras con Laravel y React
 
 - Usuario
     - usuario: usuario2@gmail.com | contraseña: 12345
-    - usuario: usuario3@gmail.com | contraseña: 12345
 
 - Supervisor
     - usuario: supervisor@gmail.com  | contraseña: 12345
-    - usuario: supervisor2@gmail.com | contraseña: 12345
