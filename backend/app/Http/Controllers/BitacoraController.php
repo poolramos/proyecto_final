@@ -53,7 +53,7 @@ class BitacoraController extends Controller
 
         if (!$bitacora) {
             return json_encode([
-                'error' => 'No se encontro el bitacora'
+                'error' => 'No se encontro la bitacora'
             ]);
         }
 
@@ -70,7 +70,7 @@ class BitacoraController extends Controller
 
         if (!$bitacora) {
             return json_encode([
-                'error' => 'No se encontro el bitacora'
+                'error' => 'No se encontro la bitacora'
             ]);
         }
 
