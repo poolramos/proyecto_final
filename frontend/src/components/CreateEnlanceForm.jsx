@@ -57,7 +57,7 @@ export const CreateEnlanceForm = () => {
             htmlFor="id_pagina"
             className="block text-sm font-medium text-gray-700"
           >
-            Id de la pagina
+            Id de la Pagina
           </label>
           <input
             type="text"
